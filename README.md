@@ -1,6 +1,8 @@
 # Zombie-Crasher
 An infinite runner game with customizable character, various types of enemies and obstacles and much more!
 </br>
+
+Link for Windows Playable build: https://drive.google.com/drive/folders/1cGmLWzN2ny91NXO2Kj4uTZANyvTQnXut?usp=sharing </br>
 #Screenshots
 
 ![Screenshot (135)](https://user-images.githubusercontent.com/106113538/178966315-fd7caa11-20c4-4ec9-8c80-243fb8cceb0f.png)</br>
